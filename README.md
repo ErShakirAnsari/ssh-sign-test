@@ -2,7 +2,7 @@
 
 ## How to sign commit with ssh
 
-[youtube](https://www.youtube.com/watch?v=IrK83nKi8HA)
+Reference [youtube](https://www.youtube.com/watch?v=IrK83nKi8HA)
 
 
 ```
@@ -16,3 +16,4 @@ git config user.signingkey ~/.ssh/id_rsa
 ```
 git config commit.gpgsign true
 ```
+
